@@ -54,3 +54,17 @@ This project demonstrates how to build a RAG pipeline using Flowise by combining
 ```bash
 git clone https://github.com/harmeet11009-debug/flowise-rag-chatbot.git
 cd flowise-rag-chatbot
+
+## 📦 Flowise Configuration
+
+You can directly import the pre-built Flowise pipeline using the provided JSON file:
+
+**File:** `flowise-rag-flow.json`
+
+### Steps to Import:
+1. Open Flowise
+2. Click **Import**
+3. Upload the JSON file
+4. Run the flow
+
+This will recreate the complete RAG pipeline instantly.
